@@ -1,0 +1,21 @@
+<suite name="testsuite1" parallel="tests">
+    <test name="test1">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="OpenBrowser">
+            </class>
+        </classes>
+    </test>
+    <test name="test2">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="OpenBrowser">
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+

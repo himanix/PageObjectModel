@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.095 s <<< FAILURE! - in TestSuite
+paralleltesting(OpenBrowser)  Time elapsed: 5.61 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Process unexpectedly closed with status: 0
+Build info: version: '3.7.0', revision: '2321c73', time: '2017-11-02T22:22:35.584Z'
+System info: host: 'XE-T-HIMANIBA', ip: '192.168.1.175', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_152'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: stack backtrace:
+   0:           0x47e934 - <no info>
+   1:           0x47f0a3 - <no info>
+   2:           0x442649 - <no info>
+   3:           0x449cc3 - <no info>
+   4:           0x42a890 - <no info>
+   5:           0x406f5e - <no info>
+   6:           0x40cfc9 - <no info>
+   7:           0x6bef19 - <no info>
+   8:           0x420756 - <no info>
+   9:           0x6b96e0 - <no info>
+  10:     0x7ff83d7c1611 - BaseThreadInitThunk
+	at OpenBrowser.paralleltesting(OpenBrowser.java:20)
+
