@@ -14,17 +14,23 @@ public class HomePage extends DriverFactory{
     public static WebElement element_box;
     private static By element_searchicon = By.className("vh79eN");
     private static By element_searchbox=By.className("LM6RPg");
+    private static By element_closemodal=By.xpath("//div[@class='_3Njdz7']/button");
     public HomePage(){
         super();
         this.driver = DriverFactory.driver;
     }
 
     public static void searchproduct(String search_text) throws InterruptedException {
+        if(checkVisibility(element_closemodal)){
+            clickElement(element_closemodal);
+        }
+       // checkVisibility(element_closemodal);
+            waitForElement(element_searchbox);
+            sendText(element_searchbox,search_text);
+            //driver.findElement(element_searchbox).sendKeys(search_text);
+            clickElement(element_searchicon);
 
-        waitForElement(element_searchbox);
-        sendText(element_searchbox,search_text);
-       //driver.findElement(element_searchbox).sendKeys(search_text);
-        clickElement(element_searchicon);
+
     }
 
     public static String getPageTitle(){

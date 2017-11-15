@@ -1,13 +1,13 @@
 package functionPackage;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -69,6 +69,28 @@ public class DriverFactory {
     public static void sendText(By locator, String text){
         driver.findElement(locator).sendKeys(text);
     }
+
+    public static boolean checkVisibility(By locator){
+        try {
+            if (driver.findElement(locator).isDisplayed()) {
+                return true;
+            }
+        }catch (NoSuchElementException e){
+            System.out.println("Element not found" + e);
+            return false;
+        }
+        return false;
+    }
+   /*public static void checkVisibility(By locator){
+       try {
+           if (driver.findElement(locator).isDisplayed()) {
+              clickElement(locator);
+           }
+       }catch (NoSuchElementException e){
+           System.out.println("Element not found" + e);
+
+       }
+   }*/
 
     public Properties readPropertiesFile(String fileName){
         try {
