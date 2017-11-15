@@ -1,0 +1,19 @@
+{
+  "content_item":
+  {
+    "title": "Test 17.10 FREEFORM Contributors for regression suite CS-934",
+    "content_item_state_code": "working",
+    "source_name": "Baltimore Sun",
+    "source_code": "baltimoresun",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "balnews",
+    "body": "Adding contributor",
+    "original_thumbnail_url": "http://cdn.bitwiseglobal.com/resourcev2/themes/bitwise/images/top-logov1.png",
+    "thumbnail_source_code": "latimes",
+    "alt_thumbnail_source_code": "latimes" ,
+    "contributors": [
+      { "slug": "slug_ID_of_first_content_item" },
+      { "slug": "slug_ID_of_second_content_item" },
+      { "slug": "slug_ID_of_third_content_item" }]
+  }
+}

@@ -1,18 +1,19 @@
-<suite name="testsuite1" parallel="tests">
+<suite name="testsuite1">
     <test name="test1">
         <parameter name="browser" value="firefox"></parameter>
         <classes>
-            <class name="OpenBrowser">
-            </class>
+            <class name="HomePageTest"></class>
+           <!-- <class name="functionPackage.HomePage"></class>
+            <class name="functionPackage.SearchPage"></class>-->
         </classes>
     </test>
-    <test name="test2">
+   <!-- <test name="test2">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="OpenBrowser">
+            <class name="OpenBrowserParallel">
             </class>
         </classes>
-    </test>
+    </test>-->
 </suite>
 
 

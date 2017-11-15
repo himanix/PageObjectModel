@@ -5,7 +5,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-public class OpenBrowser {
+public class OpenBrowserParallel {
 
     @Parameters("browser")
     @Test
