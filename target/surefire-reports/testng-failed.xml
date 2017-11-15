@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [testsuite1]">
+  <test name="test1(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="HomePageTest">
+        <methods>
+          <include name="verifyhomepage"/>
+          <include name="quitApplication"/>
+        </methods>
+      </class> <!-- HomePageTest -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [testsuite1] -->

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="testsuite1" duration-ms="978" started-at="2017-11-15T10:00:34Z" finished-at="2017-11-15T10:00:35Z">
+  <suite name="testsuite1" duration-ms="983" started-at="2017-11-15T10:52:56Z" finished-at="2017-11-15T10:52:57Z">
     <groups>
     </groups>
-    <test name="test1" duration-ms="978" started-at="2017-11-15T10:00:34Z" finished-at="2017-11-15T10:00:35Z">
+    <test name="test1" duration-ms="983" started-at="2017-11-15T10:52:56Z" finished-at="2017-11-15T10:52:57Z">
       <class name="HomePageTest">
-        <test-method status="PASS" signature="verifyhomepage()[pri:0, instance:HomePageTest@f09733f]" name="verifyhomepage" duration-ms="565" started-at="2017-11-15T15:30:35Z" finished-at="2017-11-15T15:30:35Z">
+        <test-method status="PASS" signature="verifyhomepage()[pri:0, instance:HomePageTest@712625fd]" name="verifyhomepage" duration-ms="472" started-at="2017-11-15T16:22:56Z" finished-at="2017-11-15T16:22:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyhomepage -->
-        <test-method status="PASS" signature="quitApplication()[pri:0, instance:HomePageTest@f09733f]" name="quitApplication" is-config="true" duration-ms="394" started-at="2017-11-15T15:30:35Z" finished-at="2017-11-15T15:30:35Z">
+        <test-method status="PASS" signature="quitApplication()[pri:0, instance:HomePageTest@712625fd]" name="quitApplication" is-config="true" duration-ms="485" started-at="2017-11-15T16:22:56Z" finished-at="2017-11-15T16:22:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitApplication -->

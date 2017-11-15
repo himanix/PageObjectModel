@@ -1,42 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" line="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" line="13" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6876a94e-4d85-4a12-b511-8e40f2bd900c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-OpenBrowser.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/test2.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testsuite1/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/OpenBrowser.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JsonClass.java" afterPath="$PROJECT_DIR$/src/test/java/JsonClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/OpenBrowserParallel.java" afterPath="$PROJECT_DIR$/src/test/java/OpenBrowserParallel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/classes.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/test1.properties" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/test1.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/toc.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/testsuite1/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test1.html" afterPath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test1.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testsuite1/test1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java" afterPath="$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,40 +30,28 @@
       <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+            <state relative-caret-position="799">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1822#1823#0" expanded="true" />
-                <element signature="e#1851#1852#0" expanded="true" />
-                <element signature="e#2092#2093#0" expanded="true" />
-                <element signature="e#2143#2144#0" expanded="true" />
-                <element signature="e#2202#2203#0" expanded="true" />
-                <element signature="e#2260#2261#0" expanded="true" />
+                <element signature="e#1861#1862#0" expanded="true" />
+                <element signature="e#1890#1891#0" expanded="true" />
+                <element signature="e#2133#2134#0" expanded="true" />
+                <element signature="e#2164#2165#0" expanded="true" />
+                <element signature="e#2231#2232#0" expanded="true" />
+                <element signature="e#2268#2269#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenBrowserParallel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowserParallel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +74,7 @@
       <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="323">
               <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,8 +98,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -182,8 +141,8 @@
         <option value="$PROJECT_DIR$/src/main/java/functionPackage/OpenBrowser.java" />
         <option value="$PROJECT_DIR$/src/test/java/HomePageTest.java" />
         <option value="$PROJECT_DIR$/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java" />
       </list>
     </option>
   </component>
@@ -197,7 +156,7 @@
   <component name="MavenRunner">
     <option name="runMavenInBackground" value="false" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-109" />
     <option name="y" value="112" />
     <option name="width" value="1346" />
@@ -537,39 +496,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 11h 35m 45s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 11h 36m 28s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 11h 54m 28s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 11h 55m 20s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 12h 51m 57s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 12h 52m 57s.xml">
-      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 15h 00m 30s.xml">
       <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2017.11.15 at 11h 57m 18s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 04m 53s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2017.11.15 at 12h 52m 10s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 11m 53s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest_verifyhomepage - 2017.11.15 at 12h 51m 14s.xml">
-      <configuration name="HomePageTest.verifyhomepage" configurationId="TestNG" />
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 14m 39s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 15m 05s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 15m 52s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 17m 36s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 18m 35s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 19m 14s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_hbansal_IdeaProjects_SampleMavenProject_testng_xml - 2017.11.15 at 16h 20m 03s.xml">
+      <configuration name="C:/Users/hbansal/IdeaProjects/SampleMavenProject/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -580,7 +539,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.012618297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07255521" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -615,7 +574,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java</url>
-          <line>16</line>
+          <line>25</line>
           <properties class="functionPackage.HomePage" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
@@ -623,7 +582,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="functionPackage.DriverFactory" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
@@ -647,12 +606,12 @@
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
-            <element signature="e#1851#1852#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2143#2144#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
+            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#2133#2134#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
+            <element signature="e#2231#2232#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -695,8 +654,6 @@
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -996,23 +953,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowserParallel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#2133#2134#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
+            <element signature="e#2231#2232#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,47 +997,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/functionPackage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/functionPackage/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
-            <element signature="e#1851#1852#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2143#2144#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowserParallel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>

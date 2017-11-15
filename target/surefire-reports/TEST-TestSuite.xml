@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="12.632" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="21.01" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\hbansal\AppData\Local\Temp\surefire4664889849399836531\surefirebooter8354994641978934984.jar C:\Users\hbansal\AppData\Local\Temp\surefire4664889849399836531 2017-11-15T15-30-22_543-jvmRun1 surefire3683781668995678749tmp surefire_02267934456036957658tmp"/>
+    <property name="sun.java.command" value="C:\Users\hbansal\AppData\Local\Temp\surefire8466458244650403141\surefirebooter7655968165864408165.jar C:\Users\hbansal\AppData\Local\Temp\surefire8466458244650403141 2017-11-15T16-22-35_112-jvmRun1 surefire6683720967481652111tmp surefire_02875710330871101576tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\hbansal\IdeaProjects\SampleMavenProject\target\test-classes;C:\Users\hbansal\IdeaProjects\SampleMavenProject\target\classes;C:\Users\hbansal\.m2\repository\org\testng\testng\6.11\testng-6.11.jar;C:\Users\hbansal\.m2\repository\com\beust\jcommander\1.64\jcommander-1.64.jar;C:\Users\hbansal\.m2\repository\org\yaml\snakeyaml\1.17\snakeyaml-1.17.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-java\3.7.0\selenium-java-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-api\3.7.0\selenium-api-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.7.0\selenium-chrome-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.7.0\selenium-edge-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.7.0\selenium-firefox-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.7.0\selenium-ie-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.7.0\selenium-opera-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.7.0\selenium-remote-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.7.0\selenium-safari-driver-3.7.0.jar;C:\Users\hbansal\.m2\repository\org\seleniumhq\selenium\selenium-support\3.7.0\selenium-support-3.7.0.jar;C:\Users\hbansal\.m2\repository\net\bytebuddy\byte-buddy\1.7.5\byte-buddy-1.7.5.jar;C:\Users\hbansal\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\hbansal\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\hbansal\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\hbansal\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\hbansal\.m2\repository\com\google\guava\guava\23.0\guava-23.0.jar;C:\Users\hbansal\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\hbansal\.m2\repository\com\google\errorprone\error_prone_annotations\2.0.18\error_prone_annotations-2.0.18.jar;C:\Users\hbansal\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\hbansal\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\hbansal\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\hbansal\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\hbansal\.m2\repository\org\json\json\20171018\json-20171018.jar;C:\Users\hbansal\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.20.1\surefire-testng-utils-2.20.1.jar;C:\Users\hbansal\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.20.1\surefire-grouper-2.20.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\hbansal"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\hbansal\AppData\Local\Temp\surefire4664889849399836531\surefirebooter8354994641978934984.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\hbansal\AppData\Local\Temp\surefire8466458244650403141\surefirebooter7655968165864408165.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="verifyhomepage" classname="HomePageTest" time="0.565"/>
+  <testcase name="verifyhomepage" classname="HomePageTest" time="0.472"/>
 </testsuite>

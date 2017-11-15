@@ -2,6 +2,7 @@ package functionPackage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
@@ -57,17 +58,17 @@ public class DriverFactory {
         driver.quit();
     }
 
-    public static void waitForElement(By locator){
+    public static void waitForElement(WebElement element){
         mywait = new WebDriverWait(driver,maxTimeOut);
-        mywait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+        mywait.until(ExpectedConditions.visibilityOf(element));
     }
 
-    public static void clickElement(By locator){
-        driver.findElement(locator).click();
+    public static void clickElement(WebElement element){
+        element.click();
     }
 
-    public static void sendText(By locator, String text){
-        driver.findElement(locator).sendKeys(text);
+    public static void sendText(WebElement element, String text){
+       element.sendKeys(text);
     }
 
     public Properties readPropertiesFile(String fileName){
