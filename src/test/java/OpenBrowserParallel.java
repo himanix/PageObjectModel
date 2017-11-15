@@ -13,16 +13,16 @@ public class OpenBrowser {
     {
         if(browser.equals("firefox"))
         {
-           String exepath="C:\\Users\\hbansal\\IdeaProjects\\SampleMavenProject\\src\\main\\resources\\drivers\\geckodriver.exe";
+           String exepath="src\\main\\resources\\drivers\\geckodriver.exe";
            System.setProperty("webdriver.gecko.driver",exepath);
             DesiredCapabilities capabilities = DesiredCapabilities.firefox();
             //capabilities.setCapability("marionette", true);
             WebDriver driver = new FirefoxDriver();
-            driver.get("http://google.com");
+            driver.get("http://flipkart.com");
         }
         else if(browser.equals("chrome"))
         {
-            String exePath = "C:\\Users\\hbansal\\IdeaProjects\\SampleMavenProject\\src\\main\\resources\\drivers\\chromedriver.exe";
+            String exePath = "src\\main\\resources\\drivers\\chromedriver.exe";
             System.setProperty("webdriver.chrome.driver", exePath);
             WebDriver driver = new ChromeDriver();
             driver.get("http://google.com");
