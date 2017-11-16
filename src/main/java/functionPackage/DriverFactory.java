@@ -21,7 +21,7 @@ public class DriverFactory {
      Properties prop=new Properties();
      InputStream is=null;
      String browser;
-     String url;
+     static String url;
      static Integer maxTimeOut;
      public static WebDriverWait mywait;
 
@@ -43,6 +43,7 @@ public class DriverFactory {
             System.setProperty("webdriver.chrome.driver", exePath);
             driver = new ChromeDriver();
         }
+        //driver.manage().window().maximize();
         driver.get(url);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
@@ -57,9 +58,27 @@ public class DriverFactory {
         driver.quit();
     }
 
+    public static void waitForPresence(By locator){
+        mywait = new WebDriverWait(driver,maxTimeOut);
+        mywait.until(ExpectedConditions.presenceOfElementLocated(locator));
+    }
+
     public static void waitForElement(By locator){
         mywait = new WebDriverWait(driver,maxTimeOut);
         mywait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+    }
+
+    public static void waitForEnabled(By locator){
+        mywait=new WebDriverWait(driver,maxTimeOut);
+        mywait.until(ExpectedConditions.elementToBeClickable(locator));
+    }
+
+    public static void deleteCookies(){
+        driver.manage().deleteAllCookies();
+    }
+
+    public static void navigatetourl(){
+        driver.navigate().to(url);
     }
 
     public static void clickElement(By locator){

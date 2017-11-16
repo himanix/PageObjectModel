@@ -1,8 +1,9 @@
 <suite name="testsuite1">
     <test name="test1">
-        <parameter name="browser" value="firefox"></parameter>
+
         <classes>
-            <class name="HomePageTest"></class>
+
+            <class name="LoginPageTest"></class>
            <!-- <class name="functionPackage.HomePage"></class>
             <class name="functionPackage.SearchPage"></class>-->
         </classes>

@@ -24,7 +24,7 @@ public class HomePage extends DriverFactory{
         if(checkVisibility(element_closemodal)){
             clickElement(element_closemodal);
         }
-       // checkVisibility(element_closemodal);
+            // checkVisibility(element_closemodal);
             waitForElement(element_searchbox);
             sendText(element_searchbox,search_text);
             //driver.findElement(element_searchbox).sendKeys(search_text);
